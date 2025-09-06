@@ -1,4 +1,4 @@
-## Key Takeaways
+## Snake Game
 > Class inheritance allows classes to inherit attributes and methods from other classes, simplifying modifications and enhancing capabilities.
 
 > Python supports slicing for data structures like lists and dictionaries, enabling efficient data manipulation.
